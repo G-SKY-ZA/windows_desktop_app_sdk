@@ -1,3 +1,5 @@
-20200103 修复问题：1.报警处理的问题
+Bug Fixes
 
-20200102 1.修复右键点击报警列表时,设备树不会切换到车辆的问题2.屏蔽执法仪服务器,admin的语音调度功能
+1. Fixed the problem where alarms were not handled.
+
+2. Fixed the problem where the device tree will not switch to the vehicle when right-clicking on the alarm list 
